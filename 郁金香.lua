@@ -1,3 +1,14 @@
+
+你好，陌生人，我最近注意到我在b站一个优质的up主下的开源项目有人在使用且改源，在此我不反对各位使用这个脚本已经改源，但需要注意的是，这个项目使用的国内豆包所做，并无法避免一些问题，所以您如果有需要，请优化部分例如自瞄的逻辑以及实现方式，因此如果您将此脚本传出去也请不要删除这段文字，谢谢！
+
+
+
+
+
+
+
+
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local CoreGui = game:GetService("CoreGui")
